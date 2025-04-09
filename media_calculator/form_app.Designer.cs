@@ -53,7 +53,6 @@
             this.btn_save = new System.Windows.Forms.Button();
             this.label7 = new System.Windows.Forms.Label();
             this.btn_reset = new System.Windows.Forms.Button();
-            this.btn_zero = new System.Windows.Forms.Button();
             this.gb_info.SuspendLayout();
             this.panel1.SuspendLayout();
             this.SuspendLayout();
@@ -312,7 +311,6 @@
             // panel1
             // 
             this.panel1.BackColor = System.Drawing.Color.Black;
-            this.panel1.Controls.Add(this.btn_zero);
             this.panel1.Controls.Add(this.btn_clear_mem);
             this.panel1.Controls.Add(this.btn_save);
             this.panel1.Controls.Add(this.label7);
@@ -382,20 +380,6 @@
             this.btn_reset.UseVisualStyleBackColor = false;
             this.btn_reset.Click += new System.EventHandler(this.btn_reset_Click);
             // 
-            // btn_zero
-            // 
-            this.btn_zero.BackColor = System.Drawing.Color.Black;
-            this.btn_zero.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btn_zero.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btn_zero.ForeColor = System.Drawing.Color.Red;
-            this.btn_zero.Location = new System.Drawing.Point(478, 221);
-            this.btn_zero.Name = "btn_zero";
-            this.btn_zero.Size = new System.Drawing.Size(44, 35);
-            this.btn_zero.TabIndex = 10;
-            this.btn_zero.Text = "0";
-            this.btn_zero.UseVisualStyleBackColor = false;
-            this.btn_zero.Click += new System.EventHandler(this.btn_zero_Click);
-            // 
             // form_home
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -445,7 +429,6 @@
         private System.Windows.Forms.Button btn_reset;
         private System.Windows.Forms.Button btn_clear_mem;
         private System.Windows.Forms.Button btn_save;
-        private System.Windows.Forms.Button btn_zero;
     }
 }
 
