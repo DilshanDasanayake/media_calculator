@@ -57,8 +57,6 @@ namespace media_calculator
                 tb_m_add.Text = "0";
                 tb_s_add.Text = "0";
                 tb_sd_add.Text = "0";
-
-                tb_m_cu.Focus();
             }
             catch (Exception ex)
             {

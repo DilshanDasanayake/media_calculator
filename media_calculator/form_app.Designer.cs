@@ -105,9 +105,9 @@
             this.label4.ForeColor = System.Drawing.Color.DarkTurquoise;
             this.label4.Location = new System.Drawing.Point(210, 28);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(55, 16);
+            this.label4.Size = new System.Drawing.Size(56, 16);
             this.label4.TabIndex = 4;
-            this.label4.Text = "Currunt";
+            this.label4.Text = "Current";
             // 
             // tb_sd_new
             // 
@@ -371,7 +371,7 @@
             this.btn_reset.BackColor = System.Drawing.Color.Black;
             this.btn_reset.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btn_reset.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btn_reset.ForeColor = System.Drawing.SystemColors.Desktop;
+            this.btn_reset.ForeColor = System.Drawing.Color.OrangeRed;
             this.btn_reset.Location = new System.Drawing.Point(294, 221);
             this.btn_reset.Name = "btn_reset";
             this.btn_reset.Size = new System.Drawing.Size(92, 35);
