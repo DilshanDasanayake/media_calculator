@@ -300,7 +300,7 @@
             this.btn_cal.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btn_cal.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_cal.ForeColor = System.Drawing.Color.Cyan;
-            this.btn_cal.Location = new System.Drawing.Point(98, 221);
+            this.btn_cal.Location = new System.Drawing.Point(12, 221);
             this.btn_cal.Name = "btn_cal";
             this.btn_cal.Size = new System.Drawing.Size(92, 35);
             this.btn_cal.TabIndex = 7;
@@ -347,7 +347,7 @@
             this.btn_save.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btn_save.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_save.ForeColor = System.Drawing.Color.LawnGreen;
-            this.btn_save.Location = new System.Drawing.Point(196, 221);
+            this.btn_save.Location = new System.Drawing.Point(110, 221);
             this.btn_save.Name = "btn_save";
             this.btn_save.Size = new System.Drawing.Size(92, 35);
             this.btn_save.TabIndex = 9;
@@ -372,7 +372,7 @@
             this.btn_reset.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btn_reset.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_reset.ForeColor = System.Drawing.Color.OrangeRed;
-            this.btn_reset.Location = new System.Drawing.Point(294, 221);
+            this.btn_reset.Location = new System.Drawing.Point(208, 221);
             this.btn_reset.Name = "btn_reset";
             this.btn_reset.Size = new System.Drawing.Size(92, 35);
             this.btn_reset.TabIndex = 7;
